@@ -9,5 +9,7 @@ This website use:
 
 
 You can clone this repository: git clone [url_repo]
-the, run: npm install
+
+then, run: npm install
+
 finally: npm run dev
